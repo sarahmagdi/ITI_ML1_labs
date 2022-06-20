@@ -1,0 +1,5 @@
+With a human head facing the camera,
+ yaw is the angle of moving the head left and right (rotation around the Y-axis); 
+the pitch is that of moving the head up and down (rotation around the X-axis);
+and roll is the tilt angle (rotation around the Z-axis);
+ as shown in Figure 1. ... Context 2.
